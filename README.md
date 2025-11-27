@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey there!
 💼 Currently working for [Revel Media Group](https://www.revelmediagroup.com) as a Full-Stack Engineer   
 🛠️ I like building things  
 🚀 Always pushing for impactful products
