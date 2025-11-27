@@ -1,6 +1,7 @@
 # 💫 About Me:
-Currently working for Revel Media Group as a Full-Stack Engineer  
-I like building things
+💼 Currently working for Revel Media Group as a Full-Stack Engineer  
+🛠️ I like building things  
+🚀 Always pushing for impactful products
 
 
 ## 🌐 Socials:
