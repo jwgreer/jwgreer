@@ -7,29 +7,29 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordangr33r/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jwgreer2@gmail.com) 
 
-## 🧠 Core Stack
+## 🧠 Core Stack:
 
-### 🖥️ Frontend
+### 🖥️ Frontend:
 ![Vue](https://img.shields.io/badge/Vue-3-41B883?logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-### 🔧 Backend
+### 🔧 Backend:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?logo=express&logoColor=white)
 
-### ☁️ Infra / DevOps
+### ☁️ Infra / DevOps:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white)
 
-### 🗄️ Data
+### 🗄️ Data:
 ![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
