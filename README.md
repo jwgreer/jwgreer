@@ -7,11 +7,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordangr33r/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jwgreer2@gmail.com) 
 
-
-# 📈 Metrics
-![Metrics](https://metrics.lecoq.io/jwgreer?template=classic&languages=1&isocalendar=1&achievements=1&introduction=1&base=header%2Cactivity%2Crepositories)
-
-
 ## 🧠 Core Stack
 
 ### 🖥️ Frontend
